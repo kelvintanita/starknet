@@ -1,4 +1,4 @@
-# Starknet Brasil Basecamp 2
+# Starknet Brasil - Basecamp 2
 
 Deployment of a Cairo smart contract on Starknet.
 
