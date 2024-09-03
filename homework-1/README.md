@@ -2,10 +2,17 @@
 
 Deployment of a Cairo smart contract on Starknet.
 
-## Hash
+## build
 
-![Class hash declared](./images/screenshot1.png)
+![Class hash declared](./images/image1.png)
 
 ## Deploy
 
-![Contract Deploy](./images/screenshot2.png)
+![Contract Deploy](./images/image2.png)
+
+
+## interaction with the contract.
+
+![Interaction Contract](./images/image3.png)
+
+![Interaction Contract](./images/image4.png)
